@@ -1,0 +1,1 @@
+CREATE TABLE 복사할 테이블 명 AS SELECT * FROM 기존 테이블 WHERE 1=2 # 테이블 구조 복사
